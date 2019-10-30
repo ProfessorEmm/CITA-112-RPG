@@ -218,7 +218,7 @@
             "Key": "f3c73ebf-6c02-4243-a62e-0caf0a06cfaf",
             "Value": {
                 "id": "9665f642-a48b-4e46-ad16-9eaf3c474a72",
-                "resourcePath": "sprites\\spr_player_run_down_\\spr_player_run_down_.yy",
+                "resourcePath": "sprites\\spr_player_run_down\\spr_player_run_down.yy",
                 "resourceType": "GMSprite"
             }
         },
