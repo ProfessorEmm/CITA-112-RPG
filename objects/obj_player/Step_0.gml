@@ -7,9 +7,13 @@ image_speed = 0;
 /// @DnDAction : YoYo Games.Common.Temp_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6AEBC793
+/// @DnDInput : 2
 /// @DnDArgument : "var" "_animation_speed"
 /// @DnDArgument : "value" "0.6"
+/// @DnDArgument : "var_1" "_attack_input"
+/// @DnDArgument : "value_1" "keyboard_check_pressed(vk_space)"
 var _animation_speed = 0.6;
+var _attack_input = keyboard_check_pressed(vk_space);
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
